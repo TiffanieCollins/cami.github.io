@@ -1,0 +1,58 @@
+body {
+    font-family: Georgia;
+    background-color: rgb(224, 196, 243);
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+main {
+    display:grid;
+    grid-template-columns: 200px 200px 200px;
+    justify-content: center;
+}
+
+div {
+    display: inline-block;
+    text-align: right;
+}
+
+a {
+    font-size: 80%;
+    color: #000000;
+    text-decoration: none;
+}
+/*main {
+   justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+}*/
+
+/*.purple {
+    background-color: rgb(176, 86, 176);
+}
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.grey {
+    background-color: grey;
+}/*
+
